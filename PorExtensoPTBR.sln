@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PorExtensoPTBR", "PorExtensoPTBR\PorExtensoPTBR.csproj", "{AB841EA7-61EC-420D-99BF-2F698E90F83E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB841EA7-61EC-420D-99BF-2F698E90F83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB841EA7-61EC-420D-99BF-2F698E90F83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB841EA7-61EC-420D-99BF-2F698E90F83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB841EA7-61EC-420D-99BF-2F698E90F83E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
