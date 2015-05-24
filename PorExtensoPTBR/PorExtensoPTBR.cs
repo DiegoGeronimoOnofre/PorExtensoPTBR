@@ -24,16 +24,8 @@ THE SOFTWARE.
 */
 
 /**
- * Ajude o Desenvolvedor a continuar distribuindo bibliotecas e 
- * aplicações open source no Github fazendo uma doação. Abaixo estou
- * fornecendo algumas informações de contato para esclarecimento de dúvidas
- * sobre o projeto e doações.
-*/
-
-/**
  *
  * @author   Diego Geronimo Onofre
- * @site     http://tecnologiadigital.net
  * @channel  www.youtube.com/user/cursostd
  * @phone    (44) 99802997
  * @facebook www.facebook.com/diegogeronimoonofre 
@@ -42,11 +34,6 @@ THE SOFTWARE.
 /**
  * @Version 1.0
  */
-
-
-
-
-
 
 using System;
 using System.Collections.Generic;
