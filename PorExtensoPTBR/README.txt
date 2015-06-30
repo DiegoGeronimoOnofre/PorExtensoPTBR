@@ -1,22 +1,25 @@
  
  A biblioteca PorExtensoPTBR foi criada para facilitar
-a convers„o de valores numÈricos bin·rios (ulong) por 
-extenso em portuguÍs (PT-BR). Na vers„o atual esta biblioteca
-suporta converter valores de atÈ - ulong.MaxValue, o que significa
-dizer que È possÌvel converter valores maiores que 18 quintilhıes.
+a convers√£o de valores num√©ricos bin√°rios (ulong) por 
+extenso em portugu√™s (PT-BR). Na vers√£o atual esta biblioteca
+suporta converter valores de at√© - ulong.MaxValue, o que significa
+dizer que √© poss√≠vel converter valores maiores que 18 quintilh√µes.
 
 
- Abaixo h· um exemplo de como utilizar.
+ Abaixo h√° um exemplo de como utilizar.
 
-CÛdigo:
+C√≥digo:
 
 PorExtensoPTBR.Extensive.InFull(18120159287123456089)
 
-SaÌda:
+Sa√≠da:
  
-dezoito quintilhıes, 
-cento e vinte quatrilhıes, 
-cento e cinquenta e nove trilhıes, 
-duzentos e oitenta e sete bilhıes, 
-cento e vinte e trÍs milhıes, 
+dezoito quintilh√µes, 
+cento e vinte quatrilh√µes, 
+cento e cinquenta e nove trilh√µes, 
+duzentos e oitenta e sete bilh√µes, 
+cento e vinte e tr√™s milh√µes, 
 quatrocentos e cinquenta e seis mil e oitenta e nove
+
+channel  https://www.youtube.com/user/cursostd
+facebook https://www.facebook.com/diegogeronimoonofre
