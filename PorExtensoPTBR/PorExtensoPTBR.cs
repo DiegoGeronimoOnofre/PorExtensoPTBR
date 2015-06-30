@@ -24,12 +24,12 @@ THE SOFTWARE.
 */
 
 /**
- *
- * @author   Diego Geronimo Onofre
- * @channel  www.youtube.com/user/cursostd
- * @phone    (44) 99802997
- * @facebook www.facebook.com/diegogeronimoonofre 
- */
+*
+* @author   Diego Geronimo Onofre
+* @channel  https://www.youtube.com/user/cursostd
+* @facebook https://www.facebook.com/diegogeronimoonofre
+* @Github   https://github.com/DiegoGeronimoOnofre
+*/
 
 /**
  * @Version 1.0
