@@ -22,4 +22,5 @@ cento e vinte e três milhões,
 quatrocentos e cinquenta e seis mil e oitenta e nove
 
 channel  https://www.youtube.com/user/cursostd
+
 facebook https://www.facebook.com/diegogeronimoonofre
