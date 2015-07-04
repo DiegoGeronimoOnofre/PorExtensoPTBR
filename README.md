@@ -35,6 +35,8 @@ duzentos e oitenta e sete bilhões,
 cento e vinte e três milhões, 
 quatrocentos e cinquenta e seis mil e oitenta e nove
 
+Vídeo:https://www.youtube.com/watch?v=5RXZJxav2pM
+
 Perfil Facebook: https://www.facebook.com/diegogeronimoonofre
 
 Canal Youtube: https://www.youtube.com/user/cursostd
