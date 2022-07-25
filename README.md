@@ -37,6 +37,4 @@ quatrocentos e cinquenta e seis mil e oitenta e nove
 
 Vídeo: https://www.youtube.com/watch?v=wwMRyQV72BE
 
-Perfil Facebook: https://www.facebook.com/diegogeronimoonofre
-
 Canal Youtube: https://www.youtube.com/user/cursostd
